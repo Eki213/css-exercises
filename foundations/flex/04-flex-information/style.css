@@ -24,3 +24,13 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.item {
+  max-width: 200px;
+}
